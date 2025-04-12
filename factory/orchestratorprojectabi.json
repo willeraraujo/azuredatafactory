@@ -1,0 +1,9 @@
+{
+	"name": "orchestratorprojectabi",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c48aeeea-c29e-400a-bd4d-f147162a4e65",
+		"tenantId": "d61847b1-b65c-4700-801e-5c16c7f3dec7"
+	}
+}
